@@ -14,4 +14,5 @@
 <img width="595" height="582" alt="image" src="https://github.com/user-attachments/assets/69eef133-74d7-46df-9dbf-585a5349f077" />
 <img width="413" height="412" alt="image" src="https://github.com/user-attachments/assets/1ea14b8d-a0f3-4130-aa76-41c71be54d97" />
 <img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/051ee115-0c83-4124-925d-01ccbff3a7f1" /> art by me, requested by cubelolololol
+<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/37268d7a-bf7b-4b18-9f91-478d3b5c9cc7" /> art req
 
